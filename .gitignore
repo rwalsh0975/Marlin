@@ -186,4 +186,4 @@ cmake-build-*
 __pycache__
 
 #Custom Ignores
-BUILD-OUPUT/
+BUILD-OUTPUT/
